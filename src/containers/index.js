@@ -1,9 +1,6 @@
 import About from './about';
+import Schedule from './schedule';
 import BlogPostList from './blog-post-list';
 import Welcome from './welcome';
 
-export {
-  About,
-  BlogPostList,
-  Welcome,
-};
+export { About, Schedule, BlogPostList, Welcome };
